@@ -1,0 +1,16 @@
+{
+  "name": "@dragunovartem99/prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragunovartem99/prettier-config.git"
+  },
+  "author": "Artem Dragunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragunovartem99/prettier-config/issues"
+  },
+  "homepage": "https://github.com/dragunovartem99/prettier-config#readme",
+  "description": "Personal Prettier config"
+}
