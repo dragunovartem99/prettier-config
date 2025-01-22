@@ -1,4 +1,18 @@
 export default {
+	experimentalTernaries: false,
 	printWidth: 100,
-	useTabs: true
+	tabWidth: 4,
+	useTabs: true,
+	semi: true,
+	singleQuote: false,
+	quoteProps: "as-needed",
+	jsxSingleQuote: false,
+	trailingComma: "all",
+	bracketSpacing: true,
+	bracketSameLine: false,
+	arrowParens: "always",
+	vueIndentScriptAndStyle: false,
+	endOfLine: "lf",
+	embeddedLanguageFormatting: "auto",
+	singleAttributePerLine: false,
 }
