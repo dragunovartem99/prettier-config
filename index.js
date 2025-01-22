@@ -15,4 +15,4 @@ export default {
 	endOfLine: "lf",
 	embeddedLanguageFormatting: "auto",
 	singleAttributePerLine: false,
-}
+};
