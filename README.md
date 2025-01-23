@@ -11,11 +11,11 @@
 npm install --save-dev @dragunovatem99/prettier-config
 ```
 
-2. Modify `package.json` in `<your-next-project>`
+2. Modify `package.json` in `<your-project>`
 
 ```json
 {
-    "name": "<your-next-project>",
+    "name": "<your-project>",
     "version": "1.0.0",
     "prettier": "@dragunovartem99/prettier-config"
 }
