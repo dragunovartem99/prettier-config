@@ -8,7 +8,7 @@
 1. Install via npm
 
 ```shell
-npm install --save-dev @dragunovatem99/prettier-config
+npm install --save-dev @dragunovartem99/prettier-config
 ```
 
 2. Modify `package.json` in `<your-project>`
