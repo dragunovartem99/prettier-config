@@ -7,7 +7,7 @@ export default {
 	singleQuote: false,
 	quoteProps: "as-needed",
 	jsxSingleQuote: false,
-	trailingComma: "all",
+	trailingComma: "es5",
 	bracketSpacing: true,
 	bracketSameLine: false,
 	arrowParens: "always",
