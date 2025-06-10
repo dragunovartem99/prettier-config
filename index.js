@@ -1,3 +1,4 @@
+// https://prettier.io/docs/options
 export default {
 	experimentalTernaries: false,
 	printWidth: 100,
@@ -5,12 +6,17 @@ export default {
 	useTabs: true,
 	semi: true,
 	singleQuote: false,
-	quoteProps: "as-needed",
+	quoteProps: "consistent",
 	jsxSingleQuote: false,
 	trailingComma: "es5",
 	bracketSpacing: true,
+	objectWrap: "preserve",
 	bracketSameLine: false,
 	arrowParens: "always",
+	requirePragma: false,
+	insertPragma: false,
+	proseWrap: "preserve",
+	htmlWhitespaceSensitivity: "css",
 	vueIndentScriptAndStyle: false,
 	endOfLine: "lf",
 	embeddedLanguageFormatting: "auto",
