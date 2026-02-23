@@ -1,6 +1,6 @@
 # Personal Prettier Config
 
-<a href="https://github.com/dragunovartem99/prettier-config/blob/main/index.js" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/View_Configuration-red"></a>
+<a href="https://github.com/dragunovartem99/prettier-config/blob/main/.prettierrc.json" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/View_Configuration-red"></a>
 <img alt="NPM Downloads" src="https://img.shields.io/npm/d18m/@dragunovartem99/prettier-config?color=blue">
 <img alt="NPM Version" src="https://img.shields.io/npm/v/@dragunovartem99/prettier-config?color=orange">
 
